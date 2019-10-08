@@ -24,3 +24,6 @@ or
 python setup.py develop
 ```
 
+p.s.
+See [python-packaging](https://python-packaging.readthedocs.io/en/latest/index.html) for a great tutorial 
+and example of a complete Python package.
