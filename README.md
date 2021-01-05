@@ -25,5 +25,8 @@ python setup.py develop
 ```
 
 p.s.
+A nice introdution on how to write `setup.py` can be found
+[here](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/).
+
 See [python-packaging](https://python-packaging.readthedocs.io/en/latest/index.html) for a great tutorial 
 and example of a complete Python package.
